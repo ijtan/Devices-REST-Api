@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 privateInfo.txt
+PiSmartHome/config/devices.json
