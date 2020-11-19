@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Anabelle",
+        "mac": "a8:9c:ed:c0:86:02",
+        "found": false,
+        "date": "18:39 - 18/11",
+        "ip": "",
+        "id": 0
+    },
+    {
+        "name": "Korben PC",
+        "mac": "70:85:c2:cb:7b:d3",
+        "found": false,
+        "date": "02:56 - 19/11",
+        "ip": "",
+        "id": 2
+    },
+    {
+        "name": "Ethan PC",
+        "mac": "00:d8:61:55:f0:96",
+        "found": true,
+        "date": "09:31 - 19/11",
+        "ip": "192.168.0.12",
+        "id": 3
+    },
+    {
+        "name": "Marilyn",
+        "mac": "20:f4:78:6f:59:30",
+        "found": false,
+        "date": "18:10 - 17/11",
+        "ip": "",
+        "id": 4
+    },
+    {
+        "name": "hahaFunnyName",
+        "mac": "tetsMac",
+        "id": 5,
+        "found": false,
+        "date": "",
+        "ip": ""
+    },
+    {
+        "name": "Device number 1k",
+        "mac": "11:22:#3:$45",
+        "id": 7,
+        "found": false,
+        "date": "",
+        "ip": ""
+    }
+]
